@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Create form Form</title>
+    <title>Create simple Form</title>
 </head>
 <body>
     <h2>Create Simple Form</h2>
